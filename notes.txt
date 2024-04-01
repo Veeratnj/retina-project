@@ -1,0 +1,12 @@
+conv2d
+maxpooling2d
+flatten
+bense
+
+
+sequential
+load model
+
+train test split
+classification report
+confussion matrix
